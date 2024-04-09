@@ -1,7 +1,7 @@
 
 # CS50 Intro to AI with Python
 
-![CS50 Intro to AI with Python](cs50_intro_to_ai.png)
+![CS50 Intro to AI with Python](./cs50ai.png)
 
 This repository contains my solutions to the exercises and projects from the CS50 Intro to AI with Python course offered by Harvard University.
 
